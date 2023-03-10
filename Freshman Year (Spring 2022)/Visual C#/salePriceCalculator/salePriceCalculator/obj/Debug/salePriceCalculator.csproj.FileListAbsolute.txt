@@ -1,0 +1,10 @@
+C:\Users\kazma\Documents\Visual Studio 2022\salePriceCalculator\salePriceCalculator\bin\Debug\salePriceCalculator.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\salePriceCalculator\salePriceCalculator\bin\Debug\salePriceCalculator.exe
+C:\Users\kazma\Documents\Visual Studio 2022\salePriceCalculator\salePriceCalculator\bin\Debug\salePriceCalculator.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\salePriceCalculator\salePriceCalculator\obj\Debug\salePriceCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\salePriceCalculator\salePriceCalculator\obj\Debug\salePriceCalculator.SalePriceCalculator.resources
+C:\Users\kazma\Documents\Visual Studio 2022\salePriceCalculator\salePriceCalculator\obj\Debug\salePriceCalculator.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\salePriceCalculator\salePriceCalculator\obj\Debug\salePriceCalculator.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\salePriceCalculator\salePriceCalculator\obj\Debug\salePriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\salePriceCalculator\salePriceCalculator\obj\Debug\salePriceCalculator.exe
+C:\Users\kazma\Documents\Visual Studio 2022\salePriceCalculator\salePriceCalculator\obj\Debug\salePriceCalculator.pdb

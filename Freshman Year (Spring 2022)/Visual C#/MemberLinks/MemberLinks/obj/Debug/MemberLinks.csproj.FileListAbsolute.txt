@@ -1,0 +1,11 @@
+C:\Users\kazma\Documents\Visual Studio 2022\MemberLinks\MemberLinks\bin\Debug\MemberLinks.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\MemberLinks\MemberLinks\bin\Debug\MemberLinks.exe
+C:\Users\kazma\Documents\Visual Studio 2022\MemberLinks\MemberLinks\bin\Debug\MemberLinks.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\MemberLinks\MemberLinks\obj\Debug\MemberLinks.csproj.AssemblyReference.cache
+C:\Users\kazma\Documents\Visual Studio 2022\MemberLinks\MemberLinks\obj\Debug\MemberLinks.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\MemberLinks\MemberLinks\obj\Debug\MemberLinks.MemberLinks.resources
+C:\Users\kazma\Documents\Visual Studio 2022\MemberLinks\MemberLinks\obj\Debug\MemberLinks.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\MemberLinks\MemberLinks\obj\Debug\MemberLinks.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\MemberLinks\MemberLinks\obj\Debug\MemberLinks.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\MemberLinks\MemberLinks\obj\Debug\MemberLinks.exe
+C:\Users\kazma\Documents\Visual Studio 2022\MemberLinks\MemberLinks\obj\Debug\MemberLinks.pdb

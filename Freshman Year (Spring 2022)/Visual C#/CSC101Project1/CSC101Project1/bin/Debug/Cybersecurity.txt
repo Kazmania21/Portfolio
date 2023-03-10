@@ -1,0 +1,19 @@
+CSC 101 Introduction to Programming
+CSC 102 Object-Oriented Programming
+CSC 133 Survey of Computer Science
+CSC 190 HTML
+CSC 204 Algorithms
+CSC 251 Networks and Security
+CSC 311 Cyberethics and Cyber Law
+CSC 344 Management Information Systems
+CSC 363 Database Systems
+CSC 441 Project Management
+CYB 335 Systems Foundation
+CYB 354 Cybersecurity
+CYB 410 Intrusion Detection - Intrusion Prevention
+CYB 425 Disaster Recovery and Business Continuity Planning
+CYB 471 Computer Forensics
+CYB 472 Faithful Hacking
+ENG 311 Writing for Business and Industry
+MAT 105 Elementary Statistical Methods
+MAT 130 Discrete Math

@@ -1,0 +1,11 @@
+C:\Users\kazma\Documents\Visual Studio 2022\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.exe
+C:\Users\kazma\Documents\Visual Studio 2022\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.csproj.AssemblyReference.cache
+C:\Users\kazma\Documents\Visual Studio 2022\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.LatinTranslator.resources
+C:\Users\kazma\Documents\Visual Studio 2022\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.exe
+C:\Users\kazma\Documents\Visual Studio 2022\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.pdb

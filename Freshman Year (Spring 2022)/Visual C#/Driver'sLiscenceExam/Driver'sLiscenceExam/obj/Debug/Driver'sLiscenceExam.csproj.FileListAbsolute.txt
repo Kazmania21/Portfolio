@@ -1,0 +1,11 @@
+C:\Users\kazma\Documents\Visual Studio 2022\Driver'sLiscenceExam\Driver'sLiscenceExam\bin\Debug\Driver'sLiscenceExam.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\Driver'sLiscenceExam\Driver'sLiscenceExam\bin\Debug\Driver'sLiscenceExam.exe
+C:\Users\kazma\Documents\Visual Studio 2022\Driver'sLiscenceExam\Driver'sLiscenceExam\bin\Debug\Driver'sLiscenceExam.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\Driver'sLiscenceExam\Driver'sLiscenceExam\obj\Debug\Driver'sLiscenceExam.csproj.AssemblyReference.cache
+C:\Users\kazma\Documents\Visual Studio 2022\Driver'sLiscenceExam\Driver'sLiscenceExam\obj\Debug\Driver'sLiscenceExam.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\Driver'sLiscenceExam\Driver'sLiscenceExam\obj\Debug\Driver_sLiscenceExam.Form1.resources
+C:\Users\kazma\Documents\Visual Studio 2022\Driver'sLiscenceExam\Driver'sLiscenceExam\obj\Debug\Driver_sLiscenceExam.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\Driver'sLiscenceExam\Driver'sLiscenceExam\obj\Debug\Driver'sLiscenceExam.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\Driver'sLiscenceExam\Driver'sLiscenceExam\obj\Debug\Driver'sLiscenceExam.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\Driver'sLiscenceExam\Driver'sLiscenceExam\obj\Debug\Driver'sLiscenceExam.exe
+C:\Users\kazma\Documents\Visual Studio 2022\Driver'sLiscenceExam\Driver'sLiscenceExam\obj\Debug\Driver'sLiscenceExam.pdb

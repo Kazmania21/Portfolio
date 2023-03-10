@@ -1,0 +1,11 @@
+C:\Users\kazma\Documents\Visual Studio 2022\ColorTheme\ColorTheme\bin\Debug\ColorTheme.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\ColorTheme\ColorTheme\bin\Debug\ColorTheme.exe
+C:\Users\kazma\Documents\Visual Studio 2022\ColorTheme\ColorTheme\bin\Debug\ColorTheme.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\ColorTheme\ColorTheme\obj\Debug\ColorTheme.csproj.AssemblyReference.cache
+C:\Users\kazma\Documents\Visual Studio 2022\ColorTheme\ColorTheme\obj\Debug\ColorTheme.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\ColorTheme\ColorTheme\obj\Debug\ColorTheme.ColorTheme.resources
+C:\Users\kazma\Documents\Visual Studio 2022\ColorTheme\ColorTheme\obj\Debug\ColorTheme.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\ColorTheme\ColorTheme\obj\Debug\ColorTheme.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\ColorTheme\ColorTheme\obj\Debug\ColorTheme.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\ColorTheme\ColorTheme\obj\Debug\ColorTheme.exe
+C:\Users\kazma\Documents\Visual Studio 2022\ColorTheme\ColorTheme\obj\Debug\ColorTheme.pdb

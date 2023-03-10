@@ -1,0 +1,11 @@
+C:\Users\kazma\Documents\Visual Studio 2022\FuelEconomy\FuelEconomy\obj\Debug\FuelEconomy.csproj.AssemblyReference.cache
+C:\Users\kazma\Documents\Visual Studio 2022\FuelEconomy\FuelEconomy\obj\Debug\FuelEconomy.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\FuelEconomy\FuelEconomy\obj\Debug\FuelEconomy.FuelEconomy.resources
+C:\Users\kazma\Documents\Visual Studio 2022\FuelEconomy\FuelEconomy\obj\Debug\FuelEconomy.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\FuelEconomy\FuelEconomy\obj\Debug\FuelEconomy.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\FuelEconomy\FuelEconomy\obj\Debug\FuelEconomy.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\FuelEconomy\FuelEconomy\bin\Debug\FuelEconomy.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\FuelEconomy\FuelEconomy\bin\Debug\FuelEconomy.exe
+C:\Users\kazma\Documents\Visual Studio 2022\FuelEconomy\FuelEconomy\bin\Debug\FuelEconomy.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\FuelEconomy\FuelEconomy\obj\Debug\FuelEconomy.exe
+C:\Users\kazma\Documents\Visual Studio 2022\FuelEconomy\FuelEconomy\obj\Debug\FuelEconomy.pdb

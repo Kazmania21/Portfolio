@@ -1,0 +1,10 @@
+C:\Users\kazma\Documents\Visual Studio 2022\TotalSales\TotalSales\bin\Debug\TotalSales.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\TotalSales\TotalSales\bin\Debug\TotalSales.exe
+C:\Users\kazma\Documents\Visual Studio 2022\TotalSales\TotalSales\bin\Debug\TotalSales.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\TotalSales\TotalSales\obj\Debug\TotalSales.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\TotalSales\TotalSales\obj\Debug\TotalSales.Form1.resources
+C:\Users\kazma\Documents\Visual Studio 2022\TotalSales\TotalSales\obj\Debug\TotalSales.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\TotalSales\TotalSales\obj\Debug\TotalSales.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\TotalSales\TotalSales\obj\Debug\TotalSales.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\TotalSales\TotalSales\obj\Debug\TotalSales.exe
+C:\Users\kazma\Documents\Visual Studio 2022\TotalSales\TotalSales\obj\Debug\TotalSales.pdb

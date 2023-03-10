@@ -1,0 +1,16 @@
+CSC 101 Structured Programming
+CSC 102 Object-Oriented Programming
+CSC 133 Survey of Computer Science
+CSC 203 Software Engineering
+CSC 204 Algorithms
+CSC 251 Networks & Security
+CSC 311 Cyberethics and Cyber Law
+CSC 363 Database Systems
+CSC 481 Senior Project
+ and CSC 482 Senior Project
+ or 
+CSC 483 Senior Software Project
+ and CSC 484 Senior Software Project
+MAT 130 Discrete Mathematics
+MAT 105 Elementary Statistical Methods
+ or MAT 265 Probability and Statistics I

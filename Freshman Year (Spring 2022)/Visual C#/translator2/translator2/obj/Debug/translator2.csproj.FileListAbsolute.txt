@@ -1,0 +1,10 @@
+C:\Users\kazma\Documents\Visual Studio 2022\translator2\translator2\bin\Debug\translator2.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\translator2\translator2\bin\Debug\translator2.exe
+C:\Users\kazma\Documents\Visual Studio 2022\translator2\translator2\bin\Debug\translator2.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\translator2\translator2\obj\Debug\translator2.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\translator2\translator2\obj\Debug\translator2.Form1.resources
+C:\Users\kazma\Documents\Visual Studio 2022\translator2\translator2\obj\Debug\translator2.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\translator2\translator2\obj\Debug\translator2.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\translator2\translator2\obj\Debug\translator2.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\translator2\translator2\obj\Debug\translator2.exe
+C:\Users\kazma\Documents\Visual Studio 2022\translator2\translator2\obj\Debug\translator2.pdb

@@ -1,0 +1,11 @@
+C:\Users\kazma\Documents\Visual Studio 2022\BirthDateString\BirthDateString\bin\Debug\BirthDateString.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\BirthDateString\BirthDateString\bin\Debug\BirthDateString.exe
+C:\Users\kazma\Documents\Visual Studio 2022\BirthDateString\BirthDateString\bin\Debug\BirthDateString.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\BirthDateString\BirthDateString\obj\Debug\BirthDateString.csproj.AssemblyReference.cache
+C:\Users\kazma\Documents\Visual Studio 2022\BirthDateString\BirthDateString\obj\Debug\BirthDateString.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\BirthDateString\BirthDateString\obj\Debug\BirthDateString.BirthDateString.resources
+C:\Users\kazma\Documents\Visual Studio 2022\BirthDateString\BirthDateString\obj\Debug\BirthDateString.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\BirthDateString\BirthDateString\obj\Debug\BirthDateString.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\BirthDateString\BirthDateString\obj\Debug\BirthDateString.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\BirthDateString\BirthDateString\obj\Debug\BirthDateString.exe
+C:\Users\kazma\Documents\Visual Studio 2022\BirthDateString\BirthDateString\obj\Debug\BirthDateString.pdb

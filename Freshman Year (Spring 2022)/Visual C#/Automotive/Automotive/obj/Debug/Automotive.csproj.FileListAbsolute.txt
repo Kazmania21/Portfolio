@@ -1,0 +1,11 @@
+C:\Users\kazma\Documents\Visual Studio 2022\Automotive\Automotive\bin\Debug\Automotive.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\Automotive\Automotive\bin\Debug\Automotive.exe
+C:\Users\kazma\Documents\Visual Studio 2022\Automotive\Automotive\bin\Debug\Automotive.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\Automotive\Automotive\obj\Debug\Automotive.csproj.AssemblyReference.cache
+C:\Users\kazma\Documents\Visual Studio 2022\Automotive\Automotive\obj\Debug\Automotive.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\Automotive\Automotive\obj\Debug\Automotive.Form1.resources
+C:\Users\kazma\Documents\Visual Studio 2022\Automotive\Automotive\obj\Debug\Automotive.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\Automotive\Automotive\obj\Debug\Automotive.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\Automotive\Automotive\obj\Debug\Automotive.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\Automotive\Automotive\obj\Debug\Automotive.exe
+C:\Users\kazma\Documents\Visual Studio 2022\Automotive\Automotive\obj\Debug\Automotive.pdb

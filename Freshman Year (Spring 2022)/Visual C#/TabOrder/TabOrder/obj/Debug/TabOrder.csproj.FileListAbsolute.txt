@@ -1,0 +1,11 @@
+C:\Users\kazma\Documents\Visual Studio 2022\TabOrder\TabOrder\bin\Debug\TabOrder.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\TabOrder\TabOrder\bin\Debug\TabOrder.exe
+C:\Users\kazma\Documents\Visual Studio 2022\TabOrder\TabOrder\bin\Debug\TabOrder.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\TabOrder\TabOrder\obj\Debug\TabOrder.csproj.AssemblyReference.cache
+C:\Users\kazma\Documents\Visual Studio 2022\TabOrder\TabOrder\obj\Debug\TabOrder.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\TabOrder\TabOrder\obj\Debug\TabOrder.TabOrder.resources
+C:\Users\kazma\Documents\Visual Studio 2022\TabOrder\TabOrder\obj\Debug\TabOrder.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\TabOrder\TabOrder\obj\Debug\TabOrder.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\TabOrder\TabOrder\obj\Debug\TabOrder.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\TabOrder\TabOrder\obj\Debug\TabOrder.exe
+C:\Users\kazma\Documents\Visual Studio 2022\TabOrder\TabOrder\obj\Debug\TabOrder.pdb

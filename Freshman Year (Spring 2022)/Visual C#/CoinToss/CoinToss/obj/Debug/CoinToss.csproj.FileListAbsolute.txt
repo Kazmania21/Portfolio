@@ -1,0 +1,11 @@
+C:\Users\kazma\Documents\Visual Studio 2022\CoinToss\CoinToss\bin\Debug\CoinToss.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\CoinToss\CoinToss\bin\Debug\CoinToss.exe
+C:\Users\kazma\Documents\Visual Studio 2022\CoinToss\CoinToss\bin\Debug\CoinToss.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\CoinToss\CoinToss\obj\Debug\CoinToss.csproj.AssemblyReference.cache
+C:\Users\kazma\Documents\Visual Studio 2022\CoinToss\CoinToss\obj\Debug\CoinToss.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\CoinToss\CoinToss\obj\Debug\CoinToss.Form1.resources
+C:\Users\kazma\Documents\Visual Studio 2022\CoinToss\CoinToss\obj\Debug\CoinToss.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\CoinToss\CoinToss\obj\Debug\CoinToss.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\CoinToss\CoinToss\obj\Debug\CoinToss.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\CoinToss\CoinToss\obj\Debug\CoinToss.exe
+C:\Users\kazma\Documents\Visual Studio 2022\CoinToss\CoinToss\obj\Debug\CoinToss.pdb

@@ -1,0 +1,11 @@
+C:\Users\kazma\Documents\Visual Studio 2022\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.exe
+C:\Users\kazma\Documents\Visual Studio 2022\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.csproj.AssemblyReference.cache
+C:\Users\kazma\Documents\Visual Studio 2022\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.CalorieCounter.resources
+C:\Users\kazma\Documents\Visual Studio 2022\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.exe
+C:\Users\kazma\Documents\Visual Studio 2022\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.pdb

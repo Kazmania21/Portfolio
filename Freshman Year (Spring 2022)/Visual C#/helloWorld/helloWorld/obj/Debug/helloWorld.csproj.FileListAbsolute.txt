@@ -1,0 +1,14 @@
+C:\Users\kazma\Documents\Visual Studio 2022\helloWorld\helloWorld\obj\Debug\helloWorld.csproj.AssemblyReference.cache
+C:\Users\kazma\Documents\Visual Studio 2022\helloWorld\helloWorld\obj\Debug\helloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\helloWorld\helloWorld\obj\Debug\helloWorld.myFirstProgram.resources
+C:\Users\kazma\Documents\Visual Studio 2022\helloWorld\helloWorld\obj\Debug\helloWorld.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\helloWorld\helloWorld\obj\Debug\helloWorld.myFirstProgram.aa.resources
+C:\Users\kazma\Documents\Visual Studio 2022\helloWorld\helloWorld\obj\Debug\helloWorld.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\helloWorld\helloWorld\obj\Debug\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\helloWorld\helloWorld\bin\Debug\helloWorld.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\helloWorld\helloWorld\bin\Debug\helloWorld.exe
+C:\Users\kazma\Documents\Visual Studio 2022\helloWorld\helloWorld\bin\Debug\helloWorld.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\helloWorld\helloWorld\bin\Debug\aa\helloWorld.resources.dll
+C:\Users\kazma\Documents\Visual Studio 2022\helloWorld\helloWorld\obj\Debug\aa\helloWorld.resources.dll
+C:\Users\kazma\Documents\Visual Studio 2022\helloWorld\helloWorld\obj\Debug\helloWorld.exe
+C:\Users\kazma\Documents\Visual Studio 2022\helloWorld\helloWorld\obj\Debug\helloWorld.pdb

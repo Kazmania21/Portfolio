@@ -1,0 +1,9 @@
+function write_to_console($data) {
+
+$console = 'console.log(' . json_encode($data) . ');';
+$console = sprintf('<script>%s</script>', $console);
+echo $console;
+}
+$data = [ 'foo' => 'bar' ];
+$days = array("Sun", "Mon", "Tue");
+write_to_console("hello world");

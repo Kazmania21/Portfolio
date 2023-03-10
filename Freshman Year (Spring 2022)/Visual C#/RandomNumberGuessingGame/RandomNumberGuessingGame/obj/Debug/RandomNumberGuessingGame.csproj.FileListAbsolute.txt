@@ -1,0 +1,11 @@
+C:\Users\kazma\Documents\Visual Studio 2022\RandomNumberGuessingGame\RandomNumberGuessingGame\bin\Debug\RandomNumberGuessingGame.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\RandomNumberGuessingGame\RandomNumberGuessingGame\bin\Debug\RandomNumberGuessingGame.exe
+C:\Users\kazma\Documents\Visual Studio 2022\RandomNumberGuessingGame\RandomNumberGuessingGame\bin\Debug\RandomNumberGuessingGame.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\RandomNumberGuessingGame\RandomNumberGuessingGame\obj\Debug\RandomNumberGuessingGame.csproj.AssemblyReference.cache
+C:\Users\kazma\Documents\Visual Studio 2022\RandomNumberGuessingGame\RandomNumberGuessingGame\obj\Debug\RandomNumberGuessingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\RandomNumberGuessingGame\RandomNumberGuessingGame\obj\Debug\RandomNumberGuessingGame.Form1.resources
+C:\Users\kazma\Documents\Visual Studio 2022\RandomNumberGuessingGame\RandomNumberGuessingGame\obj\Debug\RandomNumberGuessingGame.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\RandomNumberGuessingGame\RandomNumberGuessingGame\obj\Debug\RandomNumberGuessingGame.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\RandomNumberGuessingGame\RandomNumberGuessingGame\obj\Debug\RandomNumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\RandomNumberGuessingGame\RandomNumberGuessingGame\obj\Debug\RandomNumberGuessingGame.exe
+C:\Users\kazma\Documents\Visual Studio 2022\RandomNumberGuessingGame\RandomNumberGuessingGame\obj\Debug\RandomNumberGuessingGame.pdb

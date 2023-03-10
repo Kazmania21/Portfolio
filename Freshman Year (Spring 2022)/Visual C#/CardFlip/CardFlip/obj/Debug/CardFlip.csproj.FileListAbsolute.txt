@@ -1,0 +1,11 @@
+C:\Users\kazma\Documents\Visual Studio 2022\CardFlip\CardFlip\bin\Debug\CardFlip.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\CardFlip\CardFlip\bin\Debug\CardFlip.exe
+C:\Users\kazma\Documents\Visual Studio 2022\CardFlip\CardFlip\bin\Debug\CardFlip.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\CardFlip\CardFlip\obj\Debug\CardFlip.csproj.AssemblyReference.cache
+C:\Users\kazma\Documents\Visual Studio 2022\CardFlip\CardFlip\obj\Debug\CardFlip.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\CardFlip\CardFlip\obj\Debug\CardFlip.Form1.resources
+C:\Users\kazma\Documents\Visual Studio 2022\CardFlip\CardFlip\obj\Debug\CardFlip.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\CardFlip\CardFlip\obj\Debug\CardFlip.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\CardFlip\CardFlip\obj\Debug\CardFlip.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\CardFlip\CardFlip\obj\Debug\CardFlip.exe
+C:\Users\kazma\Documents\Visual Studio 2022\CardFlip\CardFlip\obj\Debug\CardFlip.pdb

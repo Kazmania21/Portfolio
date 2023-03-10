@@ -1,0 +1,18 @@
+ACC 151 Principles of Accounting I
+ACC 152 Principles of Accounting II
+BUS 110 Business Foundations
+BUS 115 Business Communication
+BUS 241 Business Analytics I
+BUS 242 Business Analytics II
+BUS 310 Principles of Management
+BUS 311 Business Law
+BUS 314 International Business
+BUS 320 Principles of Marketing
+BUS 330 Principles of Finance
+BUS 344 Management of Information Systems
+BUS 350 Human Resource Management
+BUS 400 Biblical Management and Business Ethics
+BUS 410 Strategic Management
+BUS 415 Operations Management
+ECO 211 Microeconomics
+ECO 212 Macroeconomics

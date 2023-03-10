@@ -1,0 +1,10 @@
+C:\Users\kazma\Documents\Visual Studio 2022\RandomNumberFileWriter\RandomNumberFileWriter\bin\Debug\RandomNumberFileWriter.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\RandomNumberFileWriter\RandomNumberFileWriter\bin\Debug\RandomNumberFileWriter.exe
+C:\Users\kazma\Documents\Visual Studio 2022\RandomNumberFileWriter\RandomNumberFileWriter\bin\Debug\RandomNumberFileWriter.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\RandomNumberFileWriter.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\RandomNumberFileWriter.Form1.resources
+C:\Users\kazma\Documents\Visual Studio 2022\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\RandomNumberFileWriter.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\RandomNumberFileWriter.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\RandomNumberFileWriter.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\RandomNumberFileWriter.exe
+C:\Users\kazma\Documents\Visual Studio 2022\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\RandomNumberFileWriter.pdb

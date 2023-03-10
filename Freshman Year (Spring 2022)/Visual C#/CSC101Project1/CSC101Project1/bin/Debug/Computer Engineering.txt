@@ -1,0 +1,12 @@
+CSC 101 Structured Programming
+CSC 102 Object-Oriented Programming
+CSC 204 Algorithms
+MAT 130 Discrete Mathematics
+PHY 202 College Physics II
+CPE 133 Survey of Computer Science
+CPE 203 Software Engineering
+CPE 220 Digital Systems
+CPE 303 Microprocessor Systems
+CPE 335 System Foundations
+EGR 225 Signals and Systems
+ELE 309 Electronic Devices and Circuits I

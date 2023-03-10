@@ -1,0 +1,10 @@
+C:\Users\kazma\Documents\Visual Studio 2022\JokeAndPunchLine\JokeAndPunchLine\bin\Debug\JokeAndPunchLine.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\JokeAndPunchLine\JokeAndPunchLine\bin\Debug\JokeAndPunchLine.exe
+C:\Users\kazma\Documents\Visual Studio 2022\JokeAndPunchLine\JokeAndPunchLine\bin\Debug\JokeAndPunchLine.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\JokeAndPunchLine\JokeAndPunchLine\obj\Debug\JokeAndPunchLine.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\JokeAndPunchLine\JokeAndPunchLine\obj\Debug\JokeAndPunchLine.jokeAndPunchLine.resources
+C:\Users\kazma\Documents\Visual Studio 2022\JokeAndPunchLine\JokeAndPunchLine\obj\Debug\JokeAndPunchLine.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\JokeAndPunchLine\JokeAndPunchLine\obj\Debug\JokeAndPunchLine.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\JokeAndPunchLine\JokeAndPunchLine\obj\Debug\JokeAndPunchLine.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\JokeAndPunchLine\JokeAndPunchLine\obj\Debug\JokeAndPunchLine.exe
+C:\Users\kazma\Documents\Visual Studio 2022\JokeAndPunchLine\JokeAndPunchLine\obj\Debug\JokeAndPunchLine.pdb

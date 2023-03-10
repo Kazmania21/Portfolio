@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0218797e-27cc-45e3-b3df-2b82bf78deab": {
+      "ProjectGuid": "0218797e-27cc-45e3-b3df-2b82bf78deab",
+      "DisplayName": "RandomNumberGuessingGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

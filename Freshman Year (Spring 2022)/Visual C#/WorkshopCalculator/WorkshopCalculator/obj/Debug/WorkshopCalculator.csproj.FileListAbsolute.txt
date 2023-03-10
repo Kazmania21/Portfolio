@@ -1,0 +1,11 @@
+C:\Users\kazma\Documents\Visual Studio 2022\WorkshopCalculator\WorkshopCalculator\bin\Debug\WorkshopCalculator.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\WorkshopCalculator\WorkshopCalculator\bin\Debug\WorkshopCalculator.exe
+C:\Users\kazma\Documents\Visual Studio 2022\WorkshopCalculator\WorkshopCalculator\bin\Debug\WorkshopCalculator.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\WorkshopCalculator\WorkshopCalculator\obj\Debug\WorkshopCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\WorkshopCalculator\WorkshopCalculator\obj\Debug\WorkshopCalculator.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\WorkshopCalculator\WorkshopCalculator\obj\Debug\WorkshopCalculator.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\WorkshopCalculator\WorkshopCalculator\obj\Debug\WorkshopCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\WorkshopCalculator\WorkshopCalculator\obj\Debug\WorkshopCalculator.exe
+C:\Users\kazma\Documents\Visual Studio 2022\WorkshopCalculator\WorkshopCalculator\obj\Debug\WorkshopCalculator.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\WorkshopCalculator\WorkshopCalculator\obj\Debug\WorkshopCalculator.csproj.AssemblyReference.cache
+C:\Users\kazma\Documents\Visual Studio 2022\WorkshopCalculator\WorkshopCalculator\obj\Debug\WorkshopCalculator.WorkshopCalculator.resources

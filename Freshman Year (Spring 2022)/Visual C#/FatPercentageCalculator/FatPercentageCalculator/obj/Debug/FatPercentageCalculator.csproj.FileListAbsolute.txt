@@ -1,0 +1,11 @@
+C:\Users\kazma\Documents\Visual Studio 2022\FatPercentageCalculator\FatPercentageCalculator\bin\Debug\FatPercentageCalculator.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\FatPercentageCalculator\FatPercentageCalculator\bin\Debug\FatPercentageCalculator.exe
+C:\Users\kazma\Documents\Visual Studio 2022\FatPercentageCalculator\FatPercentageCalculator\bin\Debug\FatPercentageCalculator.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.csproj.AssemblyReference.cache
+C:\Users\kazma\Documents\Visual Studio 2022\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.FatPercenatgeCalculator.resources
+C:\Users\kazma\Documents\Visual Studio 2022\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.exe
+C:\Users\kazma\Documents\Visual Studio 2022\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.pdb

@@ -1,0 +1,11 @@
+C:\Users\kazma\Documents\Visual Studio 2022\PaintJobEstimator\PaintJobEstimator\bin\Debug\PaintJobEstimator.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\PaintJobEstimator\PaintJobEstimator\bin\Debug\PaintJobEstimator.exe
+C:\Users\kazma\Documents\Visual Studio 2022\PaintJobEstimator\PaintJobEstimator\bin\Debug\PaintJobEstimator.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.csproj.AssemblyReference.cache
+C:\Users\kazma\Documents\Visual Studio 2022\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.wallSpaceLabel.resources
+C:\Users\kazma\Documents\Visual Studio 2022\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.exe
+C:\Users\kazma\Documents\Visual Studio 2022\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.pdb

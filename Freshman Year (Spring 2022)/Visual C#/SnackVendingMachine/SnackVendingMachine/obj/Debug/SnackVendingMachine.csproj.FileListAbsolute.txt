@@ -1,0 +1,11 @@
+C:\Users\kazma\Documents\Visual Studio 2022\SnackVendingMachine\SnackVendingMachine\obj\Debug\SnackVendingMachine.csproj.AssemblyReference.cache
+C:\Users\kazma\Documents\Visual Studio 2022\SnackVendingMachine\SnackVendingMachine\obj\Debug\SnackVendingMachine.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\SnackVendingMachine\SnackVendingMachine\obj\Debug\SnackVendingMachine.Form1.resources
+C:\Users\kazma\Documents\Visual Studio 2022\SnackVendingMachine\SnackVendingMachine\obj\Debug\SnackVendingMachine.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\SnackVendingMachine\SnackVendingMachine\bin\Debug\SnackVendingMachine.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\SnackVendingMachine\SnackVendingMachine\bin\Debug\SnackVendingMachine.exe
+C:\Users\kazma\Documents\Visual Studio 2022\SnackVendingMachine\SnackVendingMachine\bin\Debug\SnackVendingMachine.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\SnackVendingMachine\SnackVendingMachine\obj\Debug\SnackVendingMachine.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\SnackVendingMachine\SnackVendingMachine\obj\Debug\SnackVendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\SnackVendingMachine\SnackVendingMachine\obj\Debug\SnackVendingMachine.exe
+C:\Users\kazma\Documents\Visual Studio 2022\SnackVendingMachine\SnackVendingMachine\obj\Debug\SnackVendingMachine.pdb

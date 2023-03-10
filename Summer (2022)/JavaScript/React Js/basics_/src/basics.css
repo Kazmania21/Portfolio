@@ -1,0 +1,27 @@
+label {
+    grid-column: 1/span 2;
+}
+
+h1 {
+    grid-row: 1/span 2;
+}
+
+fieldset {
+    display: grid;
+    grid-template-columns: repeat(2, 260px);
+    grid-template-rows: repeat(4, 40px);
+    grid-column: 1/span 1;
+    grid-row: 1/span 1;
+    background-color: aqua;
+}
+
+body {
+    display: grid;
+    row-gap: 5px;
+    background-color: red;
+}
+
+object {
+    width: 101%;
+    height: 285%;
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8462a6c0-321b-49ac-a622-a86f3578633e": {
+      "ProjectGuid": "8462a6c0-321b-49ac-a622-a86f3578633e",
+      "DisplayName": "RandomNumberFileWriter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

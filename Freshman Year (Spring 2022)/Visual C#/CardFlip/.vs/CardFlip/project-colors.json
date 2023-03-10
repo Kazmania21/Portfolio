@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5ac93bdd-bb66-4f49-b9ad-524acd3e6584": {
+      "ProjectGuid": "5ac93bdd-bb66-4f49-b9ad-524acd3e6584",
+      "DisplayName": "CardFlip",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
