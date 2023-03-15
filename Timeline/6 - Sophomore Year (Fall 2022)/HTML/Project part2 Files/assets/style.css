@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Noto+Serif:wght@400;700&display=swap');
+
+header {
+    background-image: url(https://www.cappex.com/sites/default/files/styles/1600x900/public/images/hero/college/212656_hero.jpg?itok=xQoYouNp);
+    background-position: center center;
+    height: 550px;
+    border: 5px solid #b68e2c;
+    margin: 15px;
+    box-shadow: 4px 3px 8px 1px #969696;
+}
+
+body, div, ul, ol, li, p, a {    
+	margin: 0px;
+    padding: 0px;
+    font-family: 'Noto Serif', serif;
+    color: #333333;
+    text-decoration: none;
+}
+
+h1, h2, .faculty-link, #core-header {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2 {
+    font-size: 2rem;
+    font-weight: 300;
+    color: #555;
+    text-shadow: 1px 1px #969696;
+    text-decoration: underline #b68e2c;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+p {
+    margin: .5rem, auto;
+}
+
+nav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+a, .container {
+    background-color: #333;
+    color: #f2f2f2;
+    display: inline-block;
+    padding: 5px;
+}
+
+.container {
+    margin: 20px;
+}
+
+section {
+    display: flex;
+}
+
+.left-col {
+    padding: 15px 20px;
+    width: 60%;
+}
+
+.right-col {
+    padding: 15px 20px;
+    width: 40%;
+}
+
+footer {
+    padding: 14px 20px;
+    background-color: #333;
+}
+
+footer > p {
+    color: #f2f2f2;
+}
+
+.faculty-image {
+    width: 60px;
+}
+
+.faculty-link {
+    background-color: #b68e2c;
+    padding: 4px 6px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    box-shadow: 4px 3px 8px 1px #969696;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.course-number {
+    font-weight: bold;
+    text-decoration: underline #333 1px;
+    text-shadow: 1px 1px #969696;
+    color: #b68e2c;
+}
+
+table, td {
+    border: 1px solid #81282e;
+    border-spacing: 0px;
+}
+
+#core-header {
+    background-color: #81282e;
+    color: white;
+}
+
+.core-table-row{
+    color: #333;
+}
+
+td {
+    padding: 3px 15px;
+}
+
+tbody tr:nth-child(even){
+    background-color: #b45b61;
+}
