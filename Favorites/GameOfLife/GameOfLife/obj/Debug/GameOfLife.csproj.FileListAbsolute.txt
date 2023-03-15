@@ -10,3 +10,15 @@ C:\Users\kazma\Documents\Visual Studio 2022\GameOfLife\GameOfLife\obj\Debug\Game
 C:\Users\kazma\Documents\Visual Studio 2022\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.AssemblyReference.cache
 C:\Users\kazma\Documents\Visual Studio 2022\GameOfLife\GameOfLife\obj\Debug\GameOfLife.MainForm.resources
 C:\Users\kazma\Documents\Visual Studio 2022\GameOfLife\GameOfLife\obj\Debug\GameOfLife.PresetsForm.resources
+C:\Users\kazma\Documents\Portfolio\Favorites\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\Users\kazma\Documents\Portfolio\Favorites\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\kazma\Documents\Portfolio\Favorites\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\kazma\Documents\Portfolio\Favorites\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.AssemblyReference.cache
+C:\Users\kazma\Documents\Portfolio\Favorites\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Portfolio\Favorites\GameOfLife\GameOfLife\obj\Debug\GameOfLife.MainForm.resources
+C:\Users\kazma\Documents\Portfolio\Favorites\GameOfLife\GameOfLife\obj\Debug\GameOfLife.PresetsForm.resources
+C:\Users\kazma\Documents\Portfolio\Favorites\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Properties.Resources.resources
+C:\Users\kazma\Documents\Portfolio\Favorites\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Portfolio\Favorites\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Portfolio\Favorites\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Users\kazma\Documents\Portfolio\Favorites\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb

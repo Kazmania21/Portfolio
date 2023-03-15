@@ -46,50 +46,50 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Cell.cs">
+    <Compile Include="Classes\Controls\Cell.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="CellTable.cs">
+    <Compile Include="Classes\Controls\CellTable.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Colony.cs">
+    <Compile Include="Classes\Controls\Colony.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ControlExtension.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="Classes\Controls\ControlExtension.cs" />
+    <Compile Include="Classes\Forms\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
+    <Compile Include="Classes\Forms\Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="PresetButton.cs">
+    <Compile Include="Classes\Controls\Preset\PresetButton.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="PresetDescription.cs">
+    <Compile Include="Classes\Controls\Preset\PresetDescription.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="PresetImage.cs">
+    <Compile Include="Classes\Controls\Preset\PresetImage.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="PresetName.cs">
+    <Compile Include="Classes\Controls\Preset\PresetName.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="PresetsForm.cs">
+    <Compile Include="Classes\Forms\PresetsForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PresetsForm.Designer.cs">
+    <Compile Include="Classes\Forms\PresetsForm.Designer.cs">
       <DependentUpon>PresetsForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Program.cs" />
+    <Compile Include="Classes\Functionallity\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Step.cs">
+    <Compile Include="Classes\Controls\Step.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Zoom.cs" />
-    <EmbeddedResource Include="Form1.resx">
+    <Compile Include="Classes\Functionallity\Zoom.cs" />
+    <EmbeddedResource Include="Classes\Forms\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="PresetsForm.resx">
+    <EmbeddedResource Include="Classes\Forms\PresetsForm.resx">
       <DependentUpon>PresetsForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -126,5 +126,6 @@
     <Content Include="Lexicon_Discriptions\defaultDesciption.txt" />
     <Content Include="Lexicon_Discriptions\rotorDesciption.txt" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
