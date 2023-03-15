@@ -1,0 +1,1 @@
+In the second semester of my Freshman year, I learned how to program in C# and the .net framework.
