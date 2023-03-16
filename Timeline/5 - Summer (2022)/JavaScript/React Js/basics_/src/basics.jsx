@@ -40,6 +40,10 @@ export class Rojo extends Component{
         if (user_Input === "1" || user_Input === "2"){
             window.location.assign("/answers/" + user_Input)
         }
+
+        else {
+            window.location.assign("/answers/3")
+        }
     }
 
     getAnswers() {
