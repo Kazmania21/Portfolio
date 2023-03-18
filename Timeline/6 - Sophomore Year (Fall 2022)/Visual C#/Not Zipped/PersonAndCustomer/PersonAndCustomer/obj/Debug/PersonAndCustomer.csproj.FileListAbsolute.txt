@@ -1,0 +1,11 @@
+C:\Users\kazma\Documents\Visual Studio 2022\PersonAndCustomer\PersonAndCustomer\bin\Debug\PersonAndCustomer.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\PersonAndCustomer\PersonAndCustomer\bin\Debug\PersonAndCustomer.exe
+C:\Users\kazma\Documents\Visual Studio 2022\PersonAndCustomer\PersonAndCustomer\bin\Debug\PersonAndCustomer.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\PersonAndCustomer\PersonAndCustomer\obj\Debug\PersonAndCustomer.csproj.AssemblyReference.cache
+C:\Users\kazma\Documents\Visual Studio 2022\PersonAndCustomer\PersonAndCustomer\obj\Debug\PersonAndCustomer.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\PersonAndCustomer\PersonAndCustomer\obj\Debug\PersonAndCustomer.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\PersonAndCustomer\PersonAndCustomer\obj\Debug\PersonAndCustomer.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\PersonAndCustomer\PersonAndCustomer\obj\Debug\PersonAndCustomer.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\PersonAndCustomer\PersonAndCustomer\obj\Debug\PersonAndCustomer.exe
+C:\Users\kazma\Documents\Visual Studio 2022\PersonAndCustomer\PersonAndCustomer\obj\Debug\PersonAndCustomer.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\PersonAndCustomer\PersonAndCustomer\obj\Debug\PersonAndCustomer.MainForm.resources

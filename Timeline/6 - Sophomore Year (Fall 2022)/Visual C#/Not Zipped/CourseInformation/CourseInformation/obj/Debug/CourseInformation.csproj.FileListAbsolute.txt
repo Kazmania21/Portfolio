@@ -1,0 +1,11 @@
+C:\Users\kazma\Documents\Visual Studio 2022\CourseInformation\CourseInformation\bin\Debug\CourseInformation.exe.config
+C:\Users\kazma\Documents\Visual Studio 2022\CourseInformation\CourseInformation\bin\Debug\CourseInformation.exe
+C:\Users\kazma\Documents\Visual Studio 2022\CourseInformation\CourseInformation\bin\Debug\CourseInformation.pdb
+C:\Users\kazma\Documents\Visual Studio 2022\CourseInformation\CourseInformation\obj\Debug\CourseInformation.csproj.AssemblyReference.cache
+C:\Users\kazma\Documents\Visual Studio 2022\CourseInformation\CourseInformation\obj\Debug\CourseInformation.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazma\Documents\Visual Studio 2022\CourseInformation\CourseInformation\obj\Debug\CourseInformation.CourseInformationForm.resources
+C:\Users\kazma\Documents\Visual Studio 2022\CourseInformation\CourseInformation\obj\Debug\CourseInformation.Properties.Resources.resources
+C:\Users\kazma\Documents\Visual Studio 2022\CourseInformation\CourseInformation\obj\Debug\CourseInformation.csproj.GenerateResource.cache
+C:\Users\kazma\Documents\Visual Studio 2022\CourseInformation\CourseInformation\obj\Debug\CourseInformation.csproj.CoreCompileInputs.cache
+C:\Users\kazma\Documents\Visual Studio 2022\CourseInformation\CourseInformation\obj\Debug\CourseInformation.exe
+C:\Users\kazma\Documents\Visual Studio 2022\CourseInformation\CourseInformation\obj\Debug\CourseInformation.pdb

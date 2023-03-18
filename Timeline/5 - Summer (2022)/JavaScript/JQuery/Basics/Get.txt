@@ -1,4 +1,0 @@
-All Answers
-1 = I'm doing good!
-2 = Sorry to hear that. I hope your day gets better!
-other = Invalid Response.

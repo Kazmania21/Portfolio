@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e05a6ed2-66fc-4c21-afbe-011b32f7c1a9": {
+      "ProjectGuid": "e05a6ed2-66fc-4c21-afbe-011b32f7c1a9",
+      "DisplayName": "Automotive",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
