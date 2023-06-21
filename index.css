@@ -1,0 +1,48 @@
+body {
+    background-color: aqua;
+    margin: 0%;
+}
+
+header {
+    display: grid;
+    background-color: black;
+    margin: 0%;
+    padding: 5px;
+    grid-template-columns: repeat(2, auto);
+    place-items: center;
+}
+
+nav {
+    display: grid;
+    background-color: black;
+    margin: 0%;
+    padding: 5px;
+    justify-self: right;
+    justify-content: end;
+    grid-template-columns: repeat(3, auto);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
+
+a:hover {
+    background-color: white;
+    color: black;
+}
+
+#body {
+    margin: 10px;
+}
+
+#name {
+    justify-self: left;
+}
+
+#nav_right {
+    display: grid;
+    justify-self: right;
+    justify-content: right;
+}
