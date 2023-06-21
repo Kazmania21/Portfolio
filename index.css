@@ -1,5 +1,11 @@
+html{
+    height: 100vh;
+    background-image: url(https://c1.staticflickr.com/1/748/20445410340_c1a0fe6a6a_b.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 body {
-    background-color: aqua;
     margin: 0%;
 }
 
@@ -33,6 +39,10 @@ a:hover {
     color: black;
 }
 
+h1, h2, p {
+    margin: 10px;
+}
+
 #body {
     margin: 10px;
 }
@@ -45,4 +55,11 @@ a:hover {
     display: grid;
     justify-self: right;
     justify-content: right;
+}
+
+.background_div {
+    background-color: white;
+    display: grid;
+    border-radius: 10px;
+    opacity: 80%;
 }
