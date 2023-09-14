@@ -43,6 +43,7 @@ nav {
 a {
     text-decoration: none;
     color: white;
+    font-size: 30px;
 }
 
 a:hover {
@@ -75,4 +76,16 @@ h1, h2, p, #body, .background_div {
     background-color: white;
     border-radius: 10px;
     opacity: 80%;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 15px;
 }
