@@ -1,3 +1,7 @@
+body, #body {
+    height: 90vh;
+}
+
 html{
     height: 100vh;
     background-image: url(https://c1.staticflickr.com/1/748/20445410340_c1a0fe6a6a_b.jpg);
@@ -5,24 +9,32 @@ html{
     background-size: cover;
 }
 
-body {
+body, header, nav {
     margin: 0%;
 }
 
-header {
+header, nav, #body, #nav_right, #projects, #small_projects, .background_div {
     display: grid;
-    background-color: black;
-    margin: 0%;
-    padding: 5px;
+}
+
+header, #projects, #small_projects {
     grid-template-columns: repeat(2, auto);
+}
+
+header, nav, a {
+    background-color: black;
+    padding: 5px;
+}
+
+header, nav {
+    background-color: black;
+}
+
+header {    
     place-items: center;
 }
 
 nav {
-    display: grid;
-    background-color: black;
-    margin: 0%;
-    padding: 5px;
     justify-self: right;
     justify-content: end;
     grid-template-columns: repeat(3, auto);
@@ -31,7 +43,6 @@ nav {
 a {
     text-decoration: none;
     color: white;
-    padding: 5px;
 }
 
 a:hover {
@@ -39,12 +50,12 @@ a:hover {
     color: black;
 }
 
-h1, h2, p {
+h1, h2, p, #body, .background_div {
     margin: 10px;
 }
 
 #body {
-    margin: 10px;
+    place-content: center;
 }
 
 #name {
@@ -52,14 +63,16 @@ h1, h2, p {
 }
 
 #nav_right {
-    display: grid;
     justify-self: right;
     justify-content: right;
 }
 
+#heading {
+    text-align: center;
+}
+
 .background_div {
     background-color: white;
-    display: grid;
     border-radius: 10px;
     opacity: 80%;
 }
