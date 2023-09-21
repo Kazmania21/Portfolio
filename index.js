@@ -1,7 +1,7 @@
 const xhttp = new XMLHttpRequest()
 
 xhttp.onload = function() {
-    console.log("hi")
+    console.log(this.responseText)
 }
 
 xhttp.open("GET", "./projects.json")
