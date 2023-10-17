@@ -2,8 +2,8 @@ from .. import interfaces
 from ....entries import interfaces as i_entry
 from ...sign import interfaces as i_sign_list
 from .....info import interfaces as info
-from calculator.data.lists.calculation import interfaces as calc_str
-from calculator.data.databases import interfaces as db
+from data.lists.calculation import interfaces as calc_str
+from data.databases import interfaces as db
 from .....collections import history_frame as his_frame
 
 

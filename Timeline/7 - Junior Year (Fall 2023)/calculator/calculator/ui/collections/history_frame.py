@@ -1,5 +1,5 @@
 import abc
-from calculator.data.databases import interfaces as i_db
+from data.databases import interfaces as i_db
 import tkinter as tk
 import typing
 from ..fonts import interfaces as i_font

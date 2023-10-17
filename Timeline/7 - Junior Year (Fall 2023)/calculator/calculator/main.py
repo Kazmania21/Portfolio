@@ -1,3 +1,4 @@
+import sys
 import tkinter as tk
 from ui.masters import window as win
 from ui.widgets.entries.calculator_entry import calculator_entry as entry
@@ -27,7 +28,7 @@ if __name__ == '__main__':
 
     """History"""
 
-    history_location = r'C:\Users\kazma\PycharmProjects\calculator\history\history.accdb'
+    history_location = r'..\history\history.accdb'
     history_database = db.HistoryDatabase("history", history_location)
     history_frame = his_frame.HistoryFrame(history_database, history_font, history_button_font)
 
@@ -43,7 +44,7 @@ if __name__ == '__main__':
     )
     file_menu.add_command(
         label='Exit',
-        command=quit
+        command=sys.exit
     )
     menu.add_cascade(
         label="File",

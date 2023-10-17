@@ -21,13 +21,9 @@ header, #projects, #small_projects {
     grid-template-columns: repeat(2, auto);
 }
 
-header, nav, a {
+header, header a, nav, nav a {
     background-color: black;
     padding: 5px;
-}
-
-header, nav {
-    background-color: black;
 }
 
 header {    
@@ -40,18 +36,18 @@ nav {
     grid-template-columns: repeat(3, auto);
 }
 
-a {
+header a, nav a {
     text-decoration: none;
     color: white;
     font-size: 30px;
 }
 
-a:hover {
+header a:hover, nav a:hover {
     background-color: white;
     color: black;
 }
 
-h1, h2, p, #body, .background_div {
+h1, h2, p, #body, .background_div, .background_div a, h3 {
     margin: 10px;
 }
 
@@ -88,4 +84,9 @@ h2 {
 
 h3 {
     font-size: 15px;
+}
+
+#child_div p {
+    margin: 0%;
+    margin-left: 10px;
 }

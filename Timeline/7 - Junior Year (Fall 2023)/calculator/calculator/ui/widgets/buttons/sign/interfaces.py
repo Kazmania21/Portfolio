@@ -1,7 +1,7 @@
 import abc
 # todo: add get_length to entries and calc_str
 from ...entries import interfaces as i_entry
-from calculator.data.lists.calculation import interfaces as calc_str
+from data.lists.calculation import interfaces as calc_str
 
 
 class ISignList(metaclass=abc.ABCMeta):

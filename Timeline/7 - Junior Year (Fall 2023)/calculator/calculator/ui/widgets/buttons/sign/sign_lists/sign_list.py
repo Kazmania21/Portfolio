@@ -1,6 +1,6 @@
 from .. import interfaces
 from ....entries import interfaces as i_entry
-from calculator.data.lists.calculation import interfaces as calc_str
+from data.lists.calculation import interfaces as calc_str
 
 
 class SignList(interfaces.ISignList):
