@@ -7,6 +7,7 @@ html{
     background-image: url(https://c1.staticflickr.com/1/748/20445410340_c1a0fe6a6a_b.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 body, header, nav {
@@ -52,7 +53,7 @@ h1, h2, p, #body, .background_div, .background_div a, h3, img {
 }
 
 #body {
-    place-content: center;
+    justify-content: center;
 }
 
 #name {
@@ -103,4 +104,18 @@ h3 {
 
 #small_projects img {
     width: 150px;
+}
+
+@media only screen and (max-width: 1026px) {
+    #projects, #small_projects {
+        grid-template-columns: repeat(1, auto);
+    }
+
+    #body {
+        place-content: auto;
+    }
+
+    #small_projects img {
+        width: 300px;
+    }
 }
