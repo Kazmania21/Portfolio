@@ -2,7 +2,31 @@
     {
         "name": "Calculator",
         "code_url": "https://github.com/Kazmania21/Portfolio/tree/master/Timeline/7%20-%20Junior%20Year%20(Fall%202023)/calculator",
-        "download_url": "./Timeline/7 - Junior Year (Fall 2023)/Calculator.zip",
+        "download_url": "https://github.com/Kazmania21/Portfolio/raw/master/Timeline/7%20-%20Junior%20Year%20(Fall%202023)/calculator.zip",
+        "type": "desktop"
+    },
+    {
+        "name": "Video Game Todo List",
+        "code_url": "https://github.com/Kazmania21/Portfolio/tree/master/Timeline/7%20-%20Junior%20Year%20(Fall%202023)/quest_log",
+        "download_url": "https://github.com/Kazmania21/Portfolio/raw/master/Timeline/7%20-%20Junior%20Year%20(Fall%202023)/quest_log.zip",
+        "type": "desktop"
+    },
+    {
+        "name": "Atari Breakout",
+        "code_url": "https://github.com/Kazmania21/Portfolio/tree/master/Timeline/7%20-%20Junior%20Year%20(Fall%202023)/atari_breakout",
+        "download_url": "https://github.com/Kazmania21/Portfolio/raw/master/Timeline/7%20-%20Junior%20Year%20(Fall%202023)/atari_breakout.zip",
+        "type": "desktop"
+    },
+    {
+        "name": "Platformer",
+        "code_url": "https://github.com/Kazmania21/Portfolio/tree/master/Timeline/7%20-%20Junior%20Year%20(Fall%202023)/platformer",
+        "download_url": "https://github.com/Kazmania21/Portfolio/raw/master/Timeline/7%20-%20Junior%20Year%20(Fall%202023)/platformer.zip",
+        "type": "desktop"
+    },
+    {
+        "name": "HTML & CSS Project",
+        "code_url": "https://github.com/Kazmania21/Portfolio/tree/master/Timeline/7%20-%20Junior%20Year%20(Fall%202023)/HTML_CSS_Warmup",
+        "download_url": "https://github.com/Kazmania21/Portfolio/raw/master/Timeline/7%20-%20Junior%20Year%20(Fall%202023)/HTML_CSS_Warmup.zip",
         "type": "desktop"
     }
 ]

@@ -13,7 +13,7 @@ body, header, nav {
     margin: 0%;
 }
 
-header, nav, #body, #nav_right, #projects, #small_projects, .background_div {
+header, nav, #body, #nav_right, #projects, #small_projects {
     display: grid;
 }
 
@@ -47,7 +47,7 @@ header a:hover, nav a:hover {
     color: black;
 }
 
-h1, h2, p, #body, .background_div, .background_div a, h3 {
+h1, h2, p, #body, .background_div, .background_div a, h3, img {
     margin: 10px;
 }
 
@@ -69,9 +69,10 @@ h1, h2, p, #body, .background_div, .background_div a, h3 {
 }
 
 .background_div {
-    background-color: white;
+    display: grid;
+    background-color: rgba(255, 255, 255, 80%);
     border-radius: 10px;
-    opacity: 80%;
+    place-content: center;
 }
 
 h1 {
@@ -89,4 +90,17 @@ h3 {
 #child_div p {
     margin: 0%;
     margin-left: 10px;
+}
+
+#projects img {
+    opacity: 100%;
+    width: 300px;
+    border-radius: 10px;
+    border: black 2px solid;
+    box-shadow: 4px 3px 8px 1px #969696;
+    justify-self: center;
+}
+
+#small_projects img {
+    width: 150px;
 }

@@ -19,6 +19,9 @@ function create_heading(project, parent_div) {
     const div = create_element("div", parent_div)
     div.className = "background_div"
 
+    const image = create_element("img", div)
+    image.src = `./images/${project.name}.png`
+    image.id = "main_project_image"
     const title = create_element("h3", div)
     title.innerText = project.name
 
@@ -40,7 +43,7 @@ xhttp.onload = function() {
     small_projects.id = "small_projects"
 
     for (let index = 1; index < 5; index++){
-        create_heading(JSON.parse(this.responseText)[0], small_projects)
+        create_heading(JSON.parse(this.responseText)[index], small_projects)
     }
 }
 
