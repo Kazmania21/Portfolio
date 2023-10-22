@@ -40,7 +40,7 @@ nav {
 header a, nav a {
     text-decoration: none;
     color: white;
-    font-size: 30px;
+    font-size: 2rem;
 }
 
 header a:hover, nav a:hover {
@@ -74,18 +74,6 @@ h1, h2, p, #body, .background_div, .background_div a, h3, img {
     background-color: rgba(255, 255, 255, 80%);
     border-radius: 10px;
     place-content: center;
-}
-
-h1 {
-    font-size: 30px;
-}
-
-h2 {
-    font-size: 20px;
-}
-
-h3 {
-    font-size: 15px;
 }
 
 #child_div p {
