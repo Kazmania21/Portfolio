@@ -34,13 +34,21 @@ header {
 nav {
     justify-self: right;
     justify-content: end;
-    grid-template-columns: repeat(3, auto);
+    grid-template-columns: repeat(6, auto);
 }
 
 header a, nav a {
+    display: grid;
     text-decoration: none;
     color: white;
     font-size: 2rem;
+    place-content: auto center;
+    grid-template-columns: repeat(2, auto);
+}
+
+a p {
+    margin: 0%;
+    padding: 0%;
 }
 
 header a:hover, nav a:hover {
@@ -94,6 +102,11 @@ h1, h2, p, #body, .background_div, .background_div a, h3, img {
     width: 150px;
 }
 
+nav img {
+    width: 2rem;
+    margin: .1rem;
+}
+
 @media only screen and (max-width: 1026px) {
     #projects, #small_projects {
         grid-template-columns: repeat(1, auto);
@@ -105,5 +118,9 @@ h1, h2, p, #body, .background_div, .background_div a, h3, img {
 
     #small_projects img {
         width: 300px;
+    }
+
+    a p {
+        display: none;
     }
 }
