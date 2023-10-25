@@ -1,0 +1,11 @@
+.background_div {
+    position: absolute;
+    justify-self: center;
+    height: 10rem;
+    top: 40%;
+}
+
+#link {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+}

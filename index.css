@@ -1,16 +1,13 @@
-html {
-    overflow-y: scroll;
-}
-
-body, #body {
+#body {
     height: 90vh;
 }
 
 #background_wrap{
+    margin: 0;
     z-index: -1;
     position: fixed;
-    height: 120%;
-    width: 120%;
+    height: 200%;
+    width: 100%;
     background-image: url(https://c1.staticflickr.com/1/748/20445410340_c1a0fe6a6a_b.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -63,7 +60,7 @@ header a:hover, nav a:hover {
     color: black;
 }
 
-h1, h2, p, #body, .background_div, .background_div a, h3, img {
+h1, h2, p, .background_div, .background_div a, h3, img {
     margin: 10px;
 }
 
@@ -130,4 +127,16 @@ nav img {
     a p {
         display: none;
     }
+}
+
+object {
+    display: block;
+}
+
+#link a {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-left: 0px;
 }
