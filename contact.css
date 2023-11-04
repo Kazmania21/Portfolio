@@ -9,3 +9,9 @@
     display: grid;
     grid-template-columns: repeat(2, auto);
 }
+
+p img {
+    width: 1rem;
+    margin: 0%;
+    margin-right: .3rem;
+}

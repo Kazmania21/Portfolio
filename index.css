@@ -1,5 +1,17 @@
+@import url(https://fonts.google.com/specimen/Roboto);
+@import url(https://fonts.google.com/specimen/Merriweather);
+
+* {
+    font-family: 'Merriweather', monospace;
+}
+
+body {
+    height: 100vh;
+    display: grid;
+}
+
 #body {
-    height: 90vh;
+    overflow-y: auto;
 }
 
 #background_wrap{
@@ -33,6 +45,7 @@ header, header a, nav, nav a {
 
 header {    
     place-items: center;
+    height: fit-content;
 }
 
 nav {
@@ -58,6 +71,10 @@ a p {
 header a:hover, nav a:hover {
     background-color: white;
     color: black;
+}
+
+h1, h2, h3, a {  
+    font-family: 'Roboto', sans-serif;
 }
 
 h1, h2, p, .background_div, .background_div a, h3, img {
@@ -86,6 +103,12 @@ h1, h2, p, .background_div, .background_div a, h3, img {
     background-color: rgba(255, 255, 255, 80%);
     border-radius: 10px;
     place-content: center;
+    padding: 15px;
+}
+
+#child_div {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
 }
 
 #child_div p {
@@ -103,7 +126,48 @@ h1, h2, p, .background_div, .background_div a, h3, img {
 }
 
 #small_projects img {
-    width: 150px;
+    width: 200px;
+}
+
+#projects p {
+    margin: 5px;
+}
+
+#projects a {
+    display: grid;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+    box-shadow: 4px 3px 8px 1px #969696;
+    justify-content: center;
+    grid-template-columns: repeat(2, auto);
+}
+
+#projects a img {
+    border-radius: 0%;
+    width: 1rem;
+    margin: 0rem;   
+    margin-right: .3rem;
+    border: 0;
+    border-top: .2rem;
+    padding: 0%;
+    margin-bottom: 0%;
+    border-bottom: 0;
+    box-shadow: 0px 0px 0px 0px #969696;
+}
+
+.github {
+    background-color: black;
+}
+
+.download {
+    background-color: red;
+}
+
+.open {
+    background-color: blue;
+    grid-column: 1/ span 2;
 }
 
 nav img {

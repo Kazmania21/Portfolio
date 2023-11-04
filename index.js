@@ -5,13 +5,18 @@ function create_element(tag, parent_div){
 }
 
 
-function create_link(label, link_text, url, parent_div) {
-    const url_label = create_element("p", parent_div)
-    url_label.innerText = label
+function create_link(label, link_text, url, parent_div, class_name, image) {
+    //const url_label = create_element("p", parent_div)
+    //url_label.innerText = label
 
-    const link = create_element("a", url_label)
+    const link = create_element("a", parent_div)
     link.href = url
     link.innerText = link_text
+    link.className = class_name;
+    const github_image = document.createElement("img")
+    github_image.src = image
+    link.prepend(github_image)
+    return link;
 }
 
 
@@ -28,8 +33,11 @@ function create_heading(project, parent_div) {
     const child_div = create_element("div", div)
     child_div.id = "child_div"
     
-    create_link("GitHub Repo: ", "project url", project.code_url, child_div)
-    create_link("Download: ", "download url", project.download_url, child_div)
+    const github_link = create_link("GitHub Repo: ", "GitHub", project.code_url, child_div, "github", `./images/github.png`)
+    create_link("Download: ", "Download", project.download_url, child_div, "download", `./images/icons8-download-24.png`)
+    if (project.type == "website") {
+        create_link("Download: ", "Open", project.download_url, child_div, "open", `./images/icons8-open-64.png`)
+    }
 }
 
 const xhttp = new XMLHttpRequest()
