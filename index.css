@@ -10,6 +10,10 @@ body {
     display: grid;
 }
 
+main {
+    justify-content: center;
+}
+
 #body {
     overflow-y: auto;
 }
@@ -30,7 +34,7 @@ body, header, nav {
     margin: 0%;
 }
 
-header, nav, #body, #nav_right, #projects, #small_projects {
+header, nav, #body, #nav_right, #projects, #small_projects, main {
     display: grid;
 }
 

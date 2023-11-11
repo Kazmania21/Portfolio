@@ -1,7 +1,18 @@
 .background_div {
-    position: absolute;
     justify-self: center;
-    height: 10rem;
-    top: 40%;
+    height: fit-content;
     text-align: center;
+}
+
+.background_div p {
+    text-indent: 40px;
+    text-align: left;
+}
+
+.background_div a {
+    margin: 0%;
+}
+
+#body {
+    margin: 5% 10%;
 }
