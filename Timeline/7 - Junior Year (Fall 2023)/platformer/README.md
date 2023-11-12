@@ -2,13 +2,10 @@
 >A 3D platformer where the goal is to get to the end without falling.
 
 ## How to Install
-Click [here](https://github.com/Kazmania21/Portfolio/raw/master/Timeline/7%20-%20Junior%20Year%20(Fall%202023)/platformer.zip) to start the installation.
-
-### Optional
-You can extract the game folder out of the installed zip file. This is not required but it can make the game easier to get to.
+Click [here](https://github.com/Kazmania21/Portfolio/raw/master/Timeline/7%20-%20Junior%20Year%20(Fall%202023)/platformer.zip) to start the installation. After it is installed, you must extract the game folder out of the installed zip file.
 
 ## How to Run
-Double click the platformer.exe shortcut file within the downloaded folder/zip file to start the game. If the game folder has not been extracted outside of the game folder as described in the optional step above, you will need to go to the atari_breakout folder inside of the zip file before you see the shortcut.
+Double click the platformer.exe shortcut file within the downloaded folder/zip file to start the game.
 
 ## Rules of the Game:
 1. You control the red cube.
