@@ -4,8 +4,11 @@
 ## How to Install
 Click [here](https://github.com/Kazmania21/Portfolio/raw/master/Timeline/7%20-%20Junior%20Year%20(Fall%202023)/atari_breakout.zip) to start the installation.
 
+### Optional
+You can extract the game folder out of the installed zip file. This is not required but it can make the game easier to get to.
+
 ## How to Run
-Double click the atari_breakout.exe shortcut file to start the game.
+Double click the atari_breakout.exe shortcut file within the downloaded folder/zip file to start the game. If the game folder has not been extracted outside of the game folder as described in the optional step above. You will need to go to the atari_breakout folder inside of the zip file before you see the shortcut.
 
 ## Rules of the Game:
 1. You control the red slider.
@@ -23,6 +26,6 @@ Double click the atari_breakout.exe shortcut file to start the game.
 Your objective is to get the highest score you can.
 
 ## Controls:
-1. The W key moves the slider to the left.
+1. The A key moves the slider to the left.
 2. The D key moves the slider to the right.
 3. Click the button on the bottom of the screen to pause, resume, or play again.
