@@ -1,6 +1,6 @@
 import sys
 
-from file_system.databases import access
+from file_system.databases import sqlite
 from ui.widgets import window
 from ui.button_commands.dynamic import create_quest_page_loader, quest_deletor
 from ui.button_commands.static import active_quest_updater, edit_canceller, quest_completer, quest_creator as qc, \
@@ -26,7 +26,7 @@ if __name__ == '__main__':
     menu = tk.Menu(window.window)
     window.window.config(menu=menu)
 
-    file_system = access.AccessDatabaseFileSystem()
+    file_system = sqlite.SQLiteDatabaseFileSystem()
     factory = factory.NormalQuestFactory(file_system)
     active_quest_variables = {}
     for quest in factory.create():
@@ -77,7 +77,8 @@ if __name__ == '__main__':
     edit_page_edit_action = create_quest_page_loader.LoadCreatePage(selected_quest, edit_quest_page, window)
     delete_action = quest_deletor.DeleteQuestAction(file_system, window, selected_quest,
                                                     message="Quest Deleted Successfully!")
-    apply_action = active_quest_updater.UpdateActiveQuestsPageAction(file_system, selected_active_quest)
+    apply_action = active_quest_updater.UpdateActiveQuestsPageAction(file_system, selected_active_quest,
+                                                                     message="Changes applied successfully!")
 
     options_frame = options.OptionsFrame(edit_page_edit_action, delete_action, selected_quest, selected_active_quest,
                                          text_color=text_color, background_color=background_color,

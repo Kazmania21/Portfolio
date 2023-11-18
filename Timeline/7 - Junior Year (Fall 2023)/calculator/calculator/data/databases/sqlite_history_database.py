@@ -1,6 +1,5 @@
 import sqlite3
 from . import interfaces
-import os
 
 
 class HistoryDatabase(interfaces.IFileSystem):
