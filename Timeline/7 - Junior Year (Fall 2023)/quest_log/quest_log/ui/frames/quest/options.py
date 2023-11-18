@@ -32,7 +32,7 @@ class OptionsFrame(interfaces.IFrame):
         check_label = tk.Label(options_frame, text="Active", fg=self.text_color, bg=self.background_color)
         check_label.grid(row=0, column=1)
 
-        img_label = image_button.ImageButton(options_frame, "../edit_pen.png",
+        img_label = image_button.ImageButton(options_frame, "../images/edit_pen.png",
                                              text_color=self.text_color,
                                              background_color=self.button_color, text="Edit")
         img_label.grid(row=0, column=2)
