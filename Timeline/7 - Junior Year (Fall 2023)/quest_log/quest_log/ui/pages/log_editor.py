@@ -78,7 +78,7 @@ class EditQuestLogPage(interfaces.IQuestLogPage):
             prev_level = level
 
         self.selected_quest.set()
-        button = image_button.ImageButton(scroll_frame, "./images/plus.png", text_color=self.text_color,
+        button = image_button.ImageButton(scroll_frame, "../images/plus.png", text_color=self.text_color,
                                           background_color=self.button_color, text="Add Final Quest")
         button.grid(row=outer_row + 2, sticky="W")
         button.configure(command=self.create_action.perform)

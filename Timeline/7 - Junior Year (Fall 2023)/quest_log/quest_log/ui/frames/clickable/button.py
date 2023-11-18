@@ -23,11 +23,11 @@ class ButtonFrame(interfaces.IFrame):
         button_frame.columnconfigure(0, weight=1)
         button_frame.columnconfigure(1, weight=1)
 
-        apply_button = image_button.ImageButton(button_frame, "./images/checkmark.png",
+        apply_button = image_button.ImageButton(button_frame, "../images/checkmark.png",
                                                 text_color=self.text_color, background_color=self.button_color,
                                                 text=self.apply_text)
         apply_button.grid(row=0, sticky="W")
-        cancel_button = image_button.ImageButton(button_frame, "./images/x.png", text_color=self.text_color,
+        cancel_button = image_button.ImageButton(button_frame, "../images/x.png", text_color=self.text_color,
                                                  background_color=self.button_color,
                                                  text=self.cancel_text)
         cancel_button.grid(row=0, column=1, sticky="E")

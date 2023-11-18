@@ -33,7 +33,7 @@ class QuestFrame(interfaces.IFrame):
 
         self.options_frame.load(frame, 0, 1)
 
-        create_button = image_button.ImageButton(frame, "./images/plus.png", text_color=self.text_color,
+        create_button = image_button.ImageButton(frame, "../images/plus.png", text_color=self.text_color,
                                                  background_color=self.button_color, text="Add Preceding Quest")
         create_button.configure(command=lambda var=quest: self.selected_quest.perform(self.create_action, var))
         create_button.grid(row=1, column=1, sticky="W")

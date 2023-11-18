@@ -38,7 +38,7 @@ class OptionsFrame(interfaces.IFrame):
         img_label.grid(row=0, column=2)
         img_label.bind("<Button-1>", lambda event, var=quest: self.selected_quest.perform(self.edit_command, var))
 
-        delete_button = image_button.ImageButton(options_frame, "./images/trash.png",
+        delete_button = image_button.ImageButton(options_frame, "../images/trash.png",
                                                  text_color=self.text_color,
                                                  background_color=self.button_color, text="Delete")
         delete_button.configure(command=lambda var=quest: self.selected_quest.perform(self.delete_command, var))
