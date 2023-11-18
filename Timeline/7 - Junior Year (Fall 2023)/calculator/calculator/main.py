@@ -9,7 +9,7 @@ from ui.widgets.buttons.sign.sign_lists import sign_list
 from ui.fonts.fonts import font
 from ui.fonts import font_mediator as font_med
 from ui.collections import history_frame as his_frame
-from data.databases import history_database as db
+from data.databases import sqlite_history_database as db
 from data.lists.calculation.calculation_string_lists import calculation_string as calc_str
 from ui.info.entry_input import entry_input as info
 
@@ -28,7 +28,8 @@ if __name__ == '__main__':
 
     """History"""
 
-    history_location = r'..\history\history.accdb'
+    history_location = r'..\history\history.db'
+    #history_name = "calculator_history"
     history_database = db.HistoryDatabase("history", history_location)
     history_frame = his_frame.HistoryFrame(history_database, history_font, history_button_font)
 
