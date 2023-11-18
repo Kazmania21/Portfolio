@@ -3022,7 +3022,7 @@
  [],
  False,
  False,
- 1700276494,
+ 1700283965,
  [('runw.exe',
    'c:\\users\\kazma\\pycharmprojects\\calculator\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
    'EXECUTABLE')],
