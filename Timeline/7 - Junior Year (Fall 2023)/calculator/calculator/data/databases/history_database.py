@@ -2,6 +2,7 @@ from . import interfaces
 import pyodbc
 import os
 import msaccessdb
+import subprocess
 
 
 class HistoryDatabase(interfaces.IFileSystem):
@@ -11,16 +12,16 @@ class HistoryDatabase(interfaces.IFileSystem):
         location = os.path.abspath(location)
         self.table_name = table_name
 
+        drivers = [x for x in pyodbc.drivers() if x.startswith('Microsoft Access Driver')]
+
+        if not drivers:
+            driver_url = 'https://www.microsoft.com/en-us/download/details.aspx?id=54920'
+            subprocess.run(['curl', '-o', 'AccessDatabaseEngine_X64.exe', driver_url])
+            subprocess.run(['AccessDatabaseEngine_X64.exe', '/quiet'])
+
         if not os.path.exists(location):
             msaccessdb.create(location)
-        conn_str = (r'DRIVER={Microsoft Access Driver (*.mdb, *.accdb)};'
-                    fr'DBQ={location};')
-        conn = pyodbc.connect(conn_str, autocommit=True)
-        self.cursor = conn.cursor()
-
-        if not self.cursor.tables(table=self.table_name).fetchone():
-            self.cursor.execute(f"CREATE TABLE {self.table_name} " +
-                                "(ID INT, EXPRESSION VARCHAR, ANSWER VARCHAR)")
+        self.cursor = self.create_db(location)
 
     def create(self, expression: str = "", answer: str = "") -> None:
         row = self.read()
@@ -38,3 +39,15 @@ class HistoryDatabase(interfaces.IFileSystem):
     def delete(self, row_index: int) -> None:
         pid = int(self.read()[row_index][0])
         self.cursor.execute(f"DELETE * FROM {self.table_name} WHERE ID = {pid}")
+
+    def create_db(self, location):
+        conn_str = (r'DRIVER={Microsoft Access Driver (*.mdb, *.accdb)};'
+                    fr'DBQ={location};')
+        conn = pyodbc.connect(conn_str, autocommit=True)
+        cursor = conn.cursor()
+
+        if not cursor.tables(table=self.table_name).fetchone():
+            cursor.execute(f"CREATE TABLE {self.table_name} " +
+                            "(ID INT, EXPRESSION VARCHAR, ANSWER VARCHAR)")
+
+        return cursor

@@ -2,6 +2,7 @@ from .. import interfaces as fs
 import pyodbc
 import os
 import msaccessdb
+import subprocess
 
 
 class AccessDatabaseFileSystem(fs.IFileSystem):
@@ -9,6 +10,13 @@ class AccessDatabaseFileSystem(fs.IFileSystem):
         location = r'..\quest_log.accdb'
         location = os.path.abspath(location)
         print(location)
+
+        drivers = [x for x in pyodbc.drivers() if x.startswith('Microsoft Access Driver')]
+
+        if not drivers:
+            driver_url = 'https://www.microsoft.com/en-us/download/details.aspx?id=54920'
+            subprocess.run(['curl', '-o', 'AccessDatabaseEngine_X64.exe', driver_url])
+            subprocess.run(['AccessDatabaseEngine_X64.exe', '/quiet'])
 
         if not os.path.exists(location):
             msaccessdb.create(location)

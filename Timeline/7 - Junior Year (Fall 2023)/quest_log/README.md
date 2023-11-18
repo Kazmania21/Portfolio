@@ -8,7 +8,8 @@ Click [here](https://github.com/Kazmania21/Portfolio/raw/master/Timeline/7%20-%2
 You can extract the application folder out of the installed zip file. This is not required but it can make the application easier to get to.
 
 ## How to Run
-Double click the quest_log.exe shortcut file within the downloaded folder/zip file to start the application. If the application folder has not been extracted outside of the application folder as described in the optional step above, you will need to go to the quest_log folder inside of the zip file before you see the shortcut.
+Open the "dist" folder double click the "quest_log.exe" file within the downloaded folder to start the application. 
+If the application folder has not been extracted outside of the zip folder as described in the optional step above, you will need to go to the quest_log folder inside of the zip file before you see the shortcut.
 
 ## Features
 1. Breaks tasks (quest lines) down into individual steps (quests).

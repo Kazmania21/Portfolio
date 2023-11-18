@@ -201,6 +201,10 @@ object {
     display: block;
 }
 
+#link {
+    width: fit-content;
+}
+
 #link a {
     width: 100%;
     white-space: nowrap;

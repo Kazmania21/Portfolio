@@ -23,3 +23,4 @@ Your objective is to get the end of the level (the green platform).
 3. The S key moves the cube backward.
 4. The D key moves the cube to the right.
 5. The mouse moves the camera around.
+6. Use the "escape"/"esc" key to quit.

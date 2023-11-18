@@ -38,6 +38,10 @@ public class PlayerMovement : MonoBehaviour
             }
         }
 
+        if (Input.GetKeyDown("escape")) {
+            Application.Quit();
+        }
+
         verticalInput = Input.GetAxis("Vertical");
         horizontalInput = Input.GetAxis("Horizontal");
 
