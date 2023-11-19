@@ -5,17 +5,24 @@
     font-family: 'Merriweather', monospace;
 }
 
+html, body {
+    position: relative;
+}
+
 body {
     height: 100vh;
     display: grid;
 }
 
 main {
+    margin: 0;
+    overflow-y: auto;
     justify-content: center;
 }
 
 #body {
     overflow-y: auto;
+    position: relative;
 }
 
 #background_wrap{
@@ -211,4 +218,23 @@ object {
     overflow: hidden;
     text-overflow: ellipsis;
     margin-left: 0px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    align-self: end;
+    width: 100%;
+}
+
+footer div {
+    padding: 1rem;
+}
+
+footer a {
+    color: white;
+}
+
+footer a:visited {
+    color: gray;
 }
