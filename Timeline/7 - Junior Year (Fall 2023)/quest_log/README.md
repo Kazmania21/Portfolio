@@ -18,8 +18,8 @@ If the application folder has not been extracted outside of the zip folder as de
 4. Allows the user to add, edit, and delete quests and quest lines.
 
 ## Image Sources
-<a target="_blank" href="https://icons8.com/icon/48/edit">Edit</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-<a target="_blank" href="https://www.iconsdb.com/lime-icons/plus-icon.html">Plus</a> icon by <a target="_blank" href="https://iconsdb.com">IconsDB</a>
-<a target="_blank" href="https://www.iconsdb.com/lime-icons/check-mark-3-icon.html">Checkmark</a> icon by <a target="_blank" href="https://iconsdb.com">IconsDB</a>
-<a target="_blank" href="https://www.iconsdb.com/red-icons/trash-4-icon.html">Trash</a> icon by <a target="_blank" href="https://iconsdb.com">IconsDB</a>
-<a target="_blank" href="https://www.iconsdb.com/red-icons/x-mark-icon.html">X mark</a> icon by <a target="_blank" href="https://iconsdb.com">IconsDB</a>
+- <a target="_blank" href="https://icons8.com/icon/48/edit">Edit</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+- <a target="_blank" href="https://www.iconsdb.com/lime-icons/plus-icon.html">Plus</a> icon by <a target="_blank" href="https://iconsdb.com">IconsDB</a>
+- <a target="_blank" href="https://www.iconsdb.com/lime-icons/check-mark-3-icon.html">Checkmark</a> icon by <a target="_blank" href="https://iconsdb.com">IconsDB</a>
+- <a target="_blank" href="https://www.iconsdb.com/red-icons/trash-4-icon.html">Trash</a> icon by <a target="_blank" href="https://iconsdb.com">IconsDB</a>
+- <a target="_blank" href="https://www.iconsdb.com/red-icons/x-mark-icon.html">X mark</a> icon by <a target="_blank" href="https://iconsdb.com">IconsDB</a>
