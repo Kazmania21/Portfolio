@@ -56,5 +56,5 @@ xhttp.onload = function() {
     }
 }
 
-xhttp.open("GET", "./projects.json")
+xhttp.open("GET", "./assets/json/projects.json")
 xhttp.send()
