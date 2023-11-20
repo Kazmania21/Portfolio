@@ -5,5 +5,5 @@ header_xhttp.onload = function() {
     body.innerHTML = this.responseText + body.innerHTML
 }
 
-header_xhttp.open("GET", "/header.html")
+header_xhttp.open("GET", "./header.html")
 header_xhttp.send()
