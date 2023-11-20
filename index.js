@@ -13,6 +13,7 @@ function create_link(label, link_text, url, parent_div, class_name, image) {
     link.href = url
     link.innerText = link_text
     link.className = class_name;
+    link.target = "_blank"
     const github_image = document.createElement("img")
     github_image.src = image
     link.prepend(github_image)
