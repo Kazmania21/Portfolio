@@ -36,7 +36,7 @@ function create_heading(project, parent_div) {
     const github_link = create_link("GitHub Repo: ", "GitHub", project.code_url, child_div, "github", `./images/github.png`)
     create_link("Download: ", "Download", project.download_url, child_div, "download", `./images/icons8-download-24.png`)
     if (project.type == "website") {
-        create_link("Download: ", "Open", project.code_url, child_div, "open", `./images/icons8-open-64.png`)
+        create_link("Download: ", "Open", project.web_page_url, child_div, "open", `./images/icons8-open-64.png`)
     }
 }
 
