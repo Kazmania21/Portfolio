@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Code+Latin:wght@200&display=swap');
+
+/*font-family: 'Martian Mono', monospace;
+font-family: 'M PLUS Code Latin', sans-serif;*/
+
+* {
+    color: lime;
+    margin: 0;
+    font-family: 'Martian Mono', monospace;
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    background-image: url("./header.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 20rem;
+    border-bottom: .1rem solid black;
+    box-shadow: 8px 6px 16px 2px #969696;
+}
+
+nav, footer {
+    background-color: grey;
+}
+
+nav {
+    border: .1rem solid rgb(61, 61, 61);
+    box-shadow: 4px 3px 8px 1px black;
+}
+
+nav ul {
+    margin: 0;
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+nav a {
+    padding: 1rem;
+    color: black;
+    display: inline-block;
+}
+
+nav a:hover {
+    background-color: black;
+    color: lime;
+}
+
+main {
+    display: flex;
+}
+
+h1, h2{
+    -webkit-text-stroke: lightgrey .05rem;
+    color: #555;
+    font-family: 'M PLUS Code Latin', sans-serif;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: 300;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+p {
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+}
+
+#css-founder {
+    width: 80px;
+    padding-top: 20px;
+}
+
+#html-founder {
+    width: 80px;
+    padding-top: 20px;
+}
+
+.left-col {
+    padding: 15px 20px;
+    width: 60%;
+}
+
+.right-col {
+    padding: 15px 20px;
+    width: 40%;
+}
+
+footer {
+    padding: 14px 20px;
+}
+
+table, td, th {
+    border: 1px solid white;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th {
+    color: lightgrey;
+}
+
+table {
+    width: 100%;
+}
+
+footer p, footer a {
+    color: black;
+}
+
+.list {
+    font-size: .8rem;
+}
